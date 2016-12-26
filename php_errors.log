@@ -1,0 +1,87 @@
+[21-Dec-2016 01:00:52 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:00:52 UTC] PHP Stack trace:
+[21-Dec-2016 01:00:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:00:52 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:00:52 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:00:52 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:00:52 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:04:08 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:04:08 UTC] PHP Stack trace:
+[21-Dec-2016 01:04:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:04:08 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:04:08 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:04:08 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:04:08 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:04:11 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:04:11 UTC] PHP Stack trace:
+[21-Dec-2016 01:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:04:11 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:04:11 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:04:11 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:04:11 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:06:16 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:06:16 UTC] PHP Stack trace:
+[21-Dec-2016 01:06:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:06:16 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:06:16 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:06:16 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:06:16 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:06:27 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:06:27 UTC] PHP Stack trace:
+[21-Dec-2016 01:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:06:27 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:06:27 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:06:27 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:06:27 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:07:40 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:07:40 UTC] PHP Stack trace:
+[21-Dec-2016 01:07:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:07:40 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:07:40 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:07:40 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:07:40 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:08:49 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:08:49 UTC] PHP Stack trace:
+[21-Dec-2016 01:08:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:08:49 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:08:49 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:08:49 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:08:49 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:10:19 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:10:19 UTC] PHP Stack trace:
+[21-Dec-2016 01:10:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:10:19 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:10:19 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:10:19 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:10:19 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:11:39 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:11:39 UTC] PHP Stack trace:
+[21-Dec-2016 01:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:11:39 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:11:39 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:11:39 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:11:39 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:15:09 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:15:09 UTC] PHP Stack trace:
+[21-Dec-2016 01:15:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:15:09 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:15:09 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:15:09 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:15:09 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:21:36 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:21:36 UTC] PHP Stack trace:
+[21-Dec-2016 01:21:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:21:36 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:21:36 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:21:36 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:21:36 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[21-Dec-2016 01:25:19 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/Estoque/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[21-Dec-2016 01:25:19 UTC] PHP Stack trace:
+[21-Dec-2016 01:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Estoque/public/index.php:0
+[21-Dec-2016 01:25:19 UTC] PHP   2. require() /home/ubuntu/workspace/Estoque/public/index.php:22
+[21-Dec-2016 01:25:19 UTC] PHP   3. require() /home/ubuntu/workspace/Estoque/bootstrap/autoload.php:17
+[21-Dec-2016 01:25:19 UTC] PHP   4. ComposerAutoloaderInit88c457b3356de1e9f2cac287037f7f26::getLoader() /home/ubuntu/workspace/Estoque/vendor/autoload.php:7
+[21-Dec-2016 01:25:19 UTC] PHP   5. composerRequire88c457b3356de1e9f2cac287037f7f26() /home/ubuntu/workspace/Estoque/vendor/composer/autoload_real.php:56
+[23-Dec-2016 18:09:47 UTC] PHP Fatal error:  Class 'estoque\Http\Controles\Controller' not found in /home/ubuntu/workspace/Estoque/app/Http/Controllers/ProdutoController.php on line 3
+[23-Dec-2016 18:10:14 UTC] PHP Fatal error:  Class 'estoque\Http\Controles\Controller' not found in /home/ubuntu/workspace/Estoque/app/Http/Controllers/ProdutoController.php on line 3
+[23-Dec-2016 18:51:51 UTC] PHP Fatal error:  Class 'estoque\Http\Controllers\DB' not found in /home/ubuntu/workspace/Estoque/app/Http/Controllers/ProdutoController.php on line 11
